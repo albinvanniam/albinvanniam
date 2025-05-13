@@ -50,10 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvanniam&theme=radical&cache_buster=1715600001" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </p>
 
