@@ -41,7 +41,7 @@
 
 ---
 
-##  GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albinvanniam&count_private=true&show_icons=true&theme=radical&cache_buster=1715600001" alt="GitHub Stats" />
@@ -50,6 +50,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical&cache_buster=1715600001" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvanniam&theme=radical&cache_buster=1715600001" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
