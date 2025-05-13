@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 Currently pursuing **M.Sc. in Computer Science** at Johannes Kepler University, Austria.  
 💼 Previously worked as a **Systems Engineer at Infosys**, where I built performant, scalable web applications using Angular and ASP.NET Core.  
