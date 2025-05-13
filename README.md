@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Albin Vanniamparambil 👋</h1>
+<h1 align="center"> Albin Vanniamparambil </h1>
 <p align="center">
   👨‍💻 Master’s student in Computer Science | Full Stack Developer | Tech Enthusiast
 </p>
