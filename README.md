@@ -50,9 +50,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
 </p>
 
+![trophy](
 
 ## 📬 Contact Me
 
