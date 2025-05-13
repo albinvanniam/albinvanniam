@@ -41,20 +41,6 @@
 
 ---
 
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albinvanniam&count_private=true&show_icons=true&theme=radical&cache_buster=1715600001" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical&cache_buster=1715600001" width="47%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-![trophy](
-
 ## 📬 Contact Me
 
 - 💌 [albinvanniam@outlook.com](mailto:albinvanniam@outlook.com)  
