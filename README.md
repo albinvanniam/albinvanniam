@@ -49,10 +49,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📬 Contact Me
