@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,6 +38,20 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+---
+
+##  GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinvanniam&count_private=true&show_icons=true&theme=radical&cache_buster=1715600001" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical&cache_buster=1715600001" width="47%" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albinvanniam&theme=radical&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
