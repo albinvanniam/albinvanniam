@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=albinvanniam&show_icons=true&theme=radical" width="47%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinvanniam&count_private=true&show_icons=true&theme=radical&cache_buster=1715600000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical&cache_buster=1715600000" width="47%" alt="Top Languages">
 </p>
 
 ---
