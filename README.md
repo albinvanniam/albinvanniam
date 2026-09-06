@@ -1,17 +1,20 @@
 <div align="center">
+  <!-- GitHub Jet Heatmap -->
   <a href="https://github.com/albinvanniam/albinvanniam">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albinvanniam/albinvanniam/main/dark.svg">
-      <img alt="GitHub Profile Header" src="https://raw.githubusercontent.com/albinvanniam/albinvanniam/main/light.svg" />
-    </picture>
+    <img
+      src="https://raw.githubusercontent.com/albinvanniam/albinvanniam/main/dist/github-jet.svg"
+      alt="GitHub Jet Heatmap"
+      width="100%"
+    />
   </a>
 
-  <img
-    src="https://raw.githubusercontent.com/albinvanniam/albinvanniam/main/dist/github-jet.svg"
-    alt="GitHub Heatmap"
-    width="100%"
-  />
+  <h1>Albin Vanniamparambil</h1>
 
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=MSc+Computer+Science+Student;Full+Stack+Developer;C%23+%7C+.NET+%7C+Angular;LLM+%26+Tech+Enthusiast" 
+    alt="Typing SVG" 
+  />
+</div>
   <h1>Albin Vanniamparambil</h1>
 
   <img 
