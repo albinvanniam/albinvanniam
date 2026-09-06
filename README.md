@@ -1,12 +1,3 @@
-<div align="center">
-  <!-- GitHub Jet Heatmap -->
-  <a href="https://github.com/albinvanniam/albinvanniam">
-    <img
-      src="https://raw.githubusercontent.com/albinvanniam/albinvanniam/main/dist/github-jet.svg"
-      alt="GitHub Jet Heatmap"
-      width="100%"
-    />
-  </a>
 
   <h1>Albin Vanniamparambil</h1>
 
