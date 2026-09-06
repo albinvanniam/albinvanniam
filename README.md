@@ -1,14 +1,25 @@
+<a href="https://github.com/Sushmitadasari/Sushmitadasari">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+</a>
+
 <h1 align="center"> Albin Vanniamparambil </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=MSc+Computer+Science+Student;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
 ---
 
 ##  About Me
-
 🎓 Currently pursuing **M.Sc. in Computer Science** at Johannes Kepler University, Austria.  
 💼 Previously worked as a **Systems Engineer at Infosys**, where I built performant, scalable web applications using Angular and ASP.NET Core.  
 🧠 I love solving real-world problems using clean code, modern frameworks, and agile practices.
@@ -41,8 +52,7 @@
 
 ---
 
-## Stats 
-
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinvanniam&layout=compact&theme=radical&cache_buster=1715600001" alt="Top Languages" />
 </p>
@@ -50,7 +60,5 @@
 ---
 
 ##  Contact Me
-
 - 💌 [albinvanniam@outlook.com](mailto:albinvanniam@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/albinvanniam)  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/albinvanniam)
